@@ -1,2 +1,2 @@
 # kpz-taskmanager-java
-"Версія 1.0"
+"Версія 2.0"
